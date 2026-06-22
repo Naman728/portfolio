@@ -1,0 +1,28 @@
+{
+  "certificates": [
+    {
+      "title": "ANVIL Hackathon — Ascent 2026",
+      "event": "Scaler School of Technology · May 16–17, 2026",
+      "prize": "4th Place · ₹3,000 · Persistent Context Engine",
+      "issuer": "Signed by Anshuman Singh, Co-founder, Scaler",
+      "image": "/images/certificates/anvil-hackathon-2026.png",
+      "pdf": null
+    },
+    {
+      "title": "Anveshana 3.0 — National Prototype Competition",
+      "event": "BMS Institute of Technology · IIC · April 2026",
+      "prize": "5th Place · ₹15,000 · MEDISCAN",
+      "issuer": "Consolation Prize, Grand Finale",
+      "image": "/images/certificates/anveshana-2026.png",
+      "pdf": "/images/certificates/anveshana-2026.pdf"
+    },
+    {
+      "title": "Student HackPad 2025",
+      "event": "Global Competition · Devpost · Nov 15–17, 2025",
+      "prize": "Top 85 Semi-Finalist · AI Resume Analyzer",
+      "issuer": "Signed by Allen Du & Arnav Chhajed, Co-founders",
+      "image": "/images/certificates/student-hackpad-2025.png",
+      "pdf": null
+    }
+  ]
+}

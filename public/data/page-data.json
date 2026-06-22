@@ -1,0 +1,121 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "namananand728@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:namananand728@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91-77173-28129",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+917717328129"
+      },
+      {
+        "type": "website",
+        "label": "github.com/Naman728",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://github.com/Naman728"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "github",
+        "icon": "/images/icon/dribble-icon.svg",
+        "link": "https://github.com/Naman728"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://linkedin.com/in/naman-anand-1a5318382"
+      },
+      {
+        "platform": "leetcode",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://leetcode.com/u/Naman728"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "B.Tech in Computer Science & Engineering — 2025–2029",
+        "description": "CMR Institute of Technology, Bangalore. Focus: Generative AI, Backend Development, Data Structures & Algorithms, System Design. CGPA: 9.25"
+      },
+      {
+        "title": "ANVIL Hackathon Certificate — May 2026",
+        "description": "Scaler School of Technology. Signed by Anshuman Singh, Co-founder. 24-hour national hackathon — Persistent Context Engine, 4th Place (₹3,000)."
+      },
+      {
+        "title": "Anveshana 3.0 Certificate — April 2026",
+        "description": "BMS Institute of Technology · IIC. National Level Prototype Competition — MEDISCAN, Consolation Prize, 5th Place (₹15,000)."
+      },
+      {
+        "title": "Student HackPad 2025 — November 2025",
+        "description": "Global competition on Devpost. AI Resume Analyzer — Top 85 Semi-Finalist. Signed by Allen Du & Arnav Chhajed, Co-founders."
+      }
+    ],
+    "skills": [
+      {
+        "name": "LangChain / LangGraph",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "RAG & Vector DBs",
+        "icon": "/images/home/education-skill/adobe-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/photoshop-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "FastAPI / Backend",
+        "icon": "/images/home/education-skill/sketch-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Multi-Agent Systems",
+        "icon": "/images/home/education-skill/invision-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Next.js / React",
+        "icon": "/images/home/education-skill/framer-icon.svg",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "GitHub",
+        "href": "https://github.com/Naman728"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://linkedin.com/in/naman-anand-1a5318382"
+      },
+      {
+        "title": "LeetCode",
+        "href": "https://leetcode.com/u/Naman728"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "namananand728@gmail.com",
+        "link": "mailto:namananand728@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91-77173-28129",
+        "link": "tel:+917717328129"
+      }
+    ]
+  }
+}

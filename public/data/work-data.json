@@ -1,0 +1,28 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-1.jpg",
+      "title": "Disaster Brain",
+      "client": "Offline-First AI Co-pilot · June 2026 · Production-Ready",
+      "slug": "https://github.com/Naman728/Disaster_Brain.git"
+    },
+    {
+      "image": "/images/work/work-img-2.jpg",
+      "title": "MEDISCAN",
+      "client": "Anveshana 3.0 · ₹15,000 · 5th Place · April 2026",
+      "slug": "https://github.com/Naman728/MEDISCAN.git"
+    },
+    {
+      "image": "/images/work/work-img-3.jpg",
+      "title": "Persistent Context Engine",
+      "client": "ANVIL Hackathon · ₹3,000 · 4th Place · May 2026",
+      "slug": "https://github.com/Naman728/Persistent-Context-Engine-for-autonomous-SRE-Neural_Ninjas.git"
+    },
+    {
+      "image": "/images/work/work-img-4.jpg",
+      "title": "AI Resume Analyzer",
+      "client": "Student HackPad 2025 · Top 25 Global · Solo · Nov 2025",
+      "slug": "https://github.com/Naman728/AI-RESUME-ANALYZER.git"
+    }
+  ]
+}
